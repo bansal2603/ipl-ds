@@ -9,7 +9,6 @@ typedef struct match
   struct match * next;
 }MATCH;
 
-//struct
 typedef struct players
 {
   char  pname[10];
